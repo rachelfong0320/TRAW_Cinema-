@@ -15,11 +15,37 @@ TRAW Cinema is a localhost website designed to streamline the cinema booking exp
 
 ### Screenshots
 *Customer Main Page*
+
 ![MainPage](readmeImages/Screenshot1.png)
 
-![MainPage](readmeImages/Screenshot2.png)
-
-![MainPage](readmeImages/Screenshot3.png)
 
 *Customer LogIn*
+
 ![LogInPage](readmeImages/Screenshot4.png)
+
+
+*Admin LogIn*
+
+![AdminLogInPage](readmeImages/Screenshot8.png)
+
+
+*Admin Manage Movie*
+
+![AdminLogInPage](readmeImages/Screenshot9.png)
+
+
+
+## Installation
+To run TRAW Cinema locally:
+1. Clone this repository.
+2. Install XAMPP and start Apache and MySQL servers.
+3. Import the SQL database from `wayang.sql`.
+4. Navigate to `localhost:3000/` in your web browser.
+
+
+## Getting Started
+- Modify `connection.php` to set up your database credentials. (or you may set up a same database name at XAMPP: tempah_tiket_wayang)
+ ![XAMPP](readmeImages/Screenshot10.png)
+
+- Customize the frontend design as needed.
+- Add additional features or functionalities based on your requiremnts. 
