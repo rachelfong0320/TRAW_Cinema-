@@ -11,7 +11,7 @@
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 
--- Dumping structure for table tempah_tiket_wayang.admin
+-- Dumping structure for table tempah_tiket_wayang.admin -
 CREATE TABLE IF NOT EXISTS `admin` (
   `nokp_admin` varchar(12) NOT NULL,
   `nama_admin` varchar(60) DEFAULT NULL,
