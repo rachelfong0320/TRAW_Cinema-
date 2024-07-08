@@ -14,4 +14,12 @@ TRAW Cinema is a localhost website designed to streamline the cinema booking exp
 - **Server**: XAMPP
 
 ### Screenshots
-![Project Logo](readmeImages/Screenshots.png)
+*Customer Main Page*
+![MainPage](readmeImages/Screenshot1.png)
+
+![MainPage](readmeImages/Screenshot2.png)
+
+![MainPage](readmeImages/Screenshot3.png)
+
+*Customer LogIn*
+![LogInPage](readmeImages/Screenshot4.png)
