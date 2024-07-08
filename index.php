@@ -32,7 +32,7 @@ $laksana=mysqli_query($condb,$arahan_cari);
   <p>Select The Showtime</p>
   <form class="w3-margin"action='' method='GET'>
   <input class="w3-input w3-border w3-round-large" type='date' name='tarikh_pilihan' min='<?PHP echo date("Y-m-d"); ?>' value='<?PHP echo $tarikh_pilihan; ?>'>
-  <button class="w3-button w3-block w3-gray w3-round-xxlarge" type='submit'>Papar</button>
+  <button style="margin-top: 10px" class="w3-button w3-block w3-gray w3-round-xxlarge" type='submit'>Papar</button>
  
 </form>
 

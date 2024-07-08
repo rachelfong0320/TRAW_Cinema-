@@ -41,20 +41,20 @@ CREATE TABLE IF NOT EXISTS `filem` (
 -- Dumping data for table tempah_tiket_wayang.filem: ~14 rows (approximately)
 /*!40000 ALTER TABLE `filem` DISABLE KEYS */;
 INSERT INTO `filem` (`id_filem`, `nama_filem`, `tarikh_mula`, `tarikh_tamat`, `gambar`, `harga_dewasa`, `harga_kanak`, `kategori`) VALUES
-	(1, 'Doraemon: Nobita Chronicle of the Moon Exploration', '2019-11-01', '2020-10-26', 'm1.jpg', 15.00, 10.00, 'U'),
-	(2, 'Rocketman', '2019-01-01', '2020-11-01', 'm2.jpg', 10.00, 5.00, 'U'),
-	(3, 'Kingdom', '2019-01-01', '2020-11-01', 'm3.jpg', 15.00, 10.00, '18SG'),
-	(4, 'The Lion King', '2019-01-01', '2020-11-01', 'm4.jpg', 15.00, 10.00, 'U'),
-	(5, 'Spider-Man: Far From Home', '2019-01-01', '2020-11-01', 'm5.jpg', 15.00, 10.00, 'U'),
-	(6, 'Godzilla: King of the Monsters', '2019-01-01', '2020-11-01', 'm6.jpg', 16.00, 10.00, '18SG'),
+	(1, 'Doraemon: Nobita Chronicle of the Moon Exploration', '2023-11-01', '2024-11-01', 'm1.jpg', 15.00, 10.00, 'U'),
+	(2, 'Rocketman', '2019-01-01', '2024-11-01', 'm2.jpg', 10.00, 5.00, 'U'),
+	(3, 'Kingdom', '2019-01-01', '2024-12-01', 'm3.jpg', 15.00, 10.00, '18SG'),
+	(4, 'The Lion King', '2019-01-01', '2027-11-01', 'm4.jpg', 15.00, 10.00, 'U'),
+	(5, 'Spider-Man: Far From Home', '2021-11-01', '2029-11-01', 'm5.jpg', 15.00, 10.00, 'U'),
+	(6, 'Godzilla: King of the Monsters', '2019-01-01', '2027-11-01', 'm6.jpg', 16.00, 10.00, '18SG'),
 	(7, 'Aladdin', '2019-01-01', '2020-11-01', 'm7.jpg', 17.00, 10.00, 'U'),
-	(8, 'Men in Black: International', '2019-01-01', '2020-11-01', 'm8.jpg', 18.00, 10.00, '13U'),
-	(10, 'Super 30', '2019-01-01', '2020-11-01', 'm10.jpg', 15.00, 10.00, '15SG'),
-	(11, 'Anna', '2019-01-01', '2020-11-01', 'm11.jpg', 15.00, 10.00, 'U'),
-	(12, 'Dilan 1991', '2019-01-01', '2020-11-01', 'm12.jpg', 12.00, 10.00, 'U'),
-	(13, 'Frozen 2 Sing-Along', '2019-11-01', '2020-11-01', 'm13.jpg', 15.00, 10.00, 'U'),
-	(14, 'Sonic the Hedgehog', '2020-01-31', '2020-05-31', 'Sonic the Hedgehog2020-02-01.jpg', 15.00, 10.00, 'U'),
-	(16, 'Crawl', '2020-01-31', '2020-03-31', 'Crawl2020-02-01.jpg', 12.00, 10.00, '18SG');
+	(8, 'Men in Black: International', '2019-01-01', '2027-11-01', 'm8.jpg', 18.00, 10.00, '13U'),
+	(10, 'Super 30', '2019-01-01', '2025-11-01', 'm10.jpg', 15.00, 10.00, '15SG'),
+	(11, 'Anna', '2019-01-01', '2025-11-01', 'm11.jpg', 15.00, 10.00, 'U'),
+	(12, 'Dilan 1991', '2019-01-01', '2025-11-01', 'm12.jpg', 12.00, 10.00, 'U'),
+	(13, 'Frozen 2 Sing-Along', '2019-11-01', '2025-11-01', 'm13.jpg', 15.00, 10.00, 'U'),
+	(14, 'Sonic the Hedgehog', '2020-01-31', '2025-05-31', 'Sonic the Hedgehog2020-02-01.jpg', 15.00, 10.00, 'U'),
+	(16, 'Crawl', '2020-01-31', '2025-03-31', 'Crawl2020-02-01.jpg', 12.00, 10.00, '18SG');
 /*!40000 ALTER TABLE `filem` ENABLE KEYS */;
 
 -- Dumping structure for table tempah_tiket_wayang.masa_tayangan
