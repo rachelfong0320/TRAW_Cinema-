@@ -98,7 +98,7 @@ if (!empty($_POST))
         $_SESSION['nama_admin']=$rekod['nama_admin'];
         $_SESSION['nokp_admin']=$rekod['nokp_admin'];
         
-        # mengarahkan fail index.php dibuka
+        # mengarahkan fail index.php dibuka (updated)
         echo "<script>window.location.href='/admin/laman_utama.php';</script>";
     }
     else
