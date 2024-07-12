@@ -99,7 +99,7 @@ if (!empty($_POST))
         $_SESSION['nokp_admin']=$rekod['nokp_admin'];
         
         # mengarahkan fail index.php dibuka
-        echo "<script>window.location.href='laman_utama.php';</script>";
+        echo "<script>window.location.href='/admin/laman_utama.php';</script>";
     }
     else
     {
