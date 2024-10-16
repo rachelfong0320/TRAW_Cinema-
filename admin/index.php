@@ -47,7 +47,7 @@ date_default_timezone_set("Asia/Kuala_Lumpur");
     Katalaluan 
     <input class="w3-input w3-round-xlarge " type='password' name='katalaluan'><br>
     <input class="w3-button w3-margin-bottom w3-margin-top w3-block w3-round-xlarge w3-lime" type='submit' value='Daftar Masuk'>
-    </form>
+  </form>
 
   
   </div>
